@@ -105,3 +105,7 @@ watchdog==6.0.0
 wcwidth==0.7.0
 webencodings==0.5.1
 websockets==16.0
+streamlit==1.40.0
+pandas
+requests
+
